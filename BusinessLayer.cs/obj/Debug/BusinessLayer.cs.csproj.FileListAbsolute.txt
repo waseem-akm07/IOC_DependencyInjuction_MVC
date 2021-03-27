@@ -1,0 +1,8 @@
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\bin\Debug\BusinessLayer.cs.dll
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\bin\Debug\BusinessLayer.cs.pdb
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\obj\Debug\BusinessLayer.cs.csproj.CoreCompileInputs.cache
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\obj\Debug\BusinessLayer.cs.dll
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\obj\Debug\BusinessLayer.cs.pdb
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\bin\Debug\BusinessLayer.cs.dll.config
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\obj\Debug\BusinessLayer.cs.csproj.CopyComplete
+E:\Company_Task\IOC_DependencyInjuction\BusinessLayer.cs\obj\Debug\BusinessLayer.cs.csprojAssemblyReference.cache

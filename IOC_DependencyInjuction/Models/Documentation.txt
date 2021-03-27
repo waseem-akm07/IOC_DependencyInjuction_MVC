@@ -1,0 +1,27 @@
+﻿   
+
+		************* Steps to use IOC (Inversion of Control) with DI (Dependency Injuction) 2 tier Architechure***************
+
+		# - First Add your main project ex:- IOC_DependencyInjuction.
+
+		# - Now Add one more project in your project for Business logic ex:- DI_BusinessLogicLayer.
+
+		# - Add ADO.Net EnityFrame work (Database) in "DI_BusinessLogicLayer" project.
+
+		# - Add refrence of EnityFrame work in "DI_BusinessLogicLayer" from "IOC_DependencyInjuction/DI_BusinessLogicLayer/bin"
+		
+		# - Add Class Name "BusinessAccessLayer" in DI_BusinessLogicLayer project and write all CRUD logic here.
+
+		# - Add Class Name "IBusinessLayer" interface in DI_BusinessLogicLayer project and call all "BusinessAccessLayer" method in it.
+
+		# - Add refrence of "DI_BusinessLogicLayer" project in "IOC_DependencyInjuction" project.
+
+		# - Add refrence of EnityFrame work in "IOC_DependencyInjuction" project from "IOC_DependencyInjuction/DI_BusinessLogicLayer/bin".
+
+		# - Add Controller and use "IBusinessLayer" to access all crud methods in it.
+
+		# - Install UnityMVC5 Library for Appling DI (dependency Injuction).
+
+		# - Now your IOC (Inversion of Control) with DI (Dependency Injuction) 2 tier Architechure project is Ready...
+
+		    Happy Coding...  WA7
